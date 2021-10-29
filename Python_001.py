@@ -63,4 +63,4 @@ print(ls3.append(6))
 print(ls3)
 
 a = "lgs"
-print(a.capitalize)
+print(a.capitalize())
